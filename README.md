@@ -92,4 +92,5 @@ or execute:
 
 ## Author
 
-Hameed Abdullah
+Aafrin Zanofiya Fathima
+
